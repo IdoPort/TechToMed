@@ -5,3 +5,4 @@
 | STD | Standard | Sexully Transmited Disease |
 | ICP | Ideal Customer Profile | Intracranial Pressure |
 | CDK | Cloud Development Kit | Cyclin Dependent Kinase |
+| CP | Copy (linux command) | Cerebral Palsy |
