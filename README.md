@@ -6,3 +6,4 @@
 | ICP | Ideal Customer Profile | Intracranial Pressure |
 | CDK | Cloud Development Kit | Cyclin Dependent Kinase |
 | CP | Copy (linux command) | Cerebral Palsy |
+| LP | Limited Partner, Landing Page | Lumbar Puncture |
