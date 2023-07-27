@@ -7,3 +7,4 @@
 | CDK | Cloud Development Kit | Cyclin Dependent Kinase |
 | CP | Copy (linux command) | Cerebral Palsy |
 | LP | Limited Partner, Landing Page | Lumbar Puncture |
+| TLS | Transport Level Security | Tumor Lysis Syndrome |
