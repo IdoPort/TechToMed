@@ -9,4 +9,8 @@
 |  6 | LP | Limited Partner, Landing Page | Lumbar Puncture |
 |  7 | TLS | Transport Level Security | Tumor Lysis Syndrome |
 |  8 | PCB | Printed Circuit Board | Post Coital Bleeding |
-|  9 | PID | Process ID | Pelvic Inflammatory Disease |
+|  9 | SAL | Sales Accepted Lead | Sterility Assurance Level |
+|  10 | MQL | Marketing Qualified Lead | Medical Query Language |
+|  11 | PQL | Product Qualified Lead | Physical Quality of Life |
+|  12 | PO | Purchase Order | "per os," (means the medication is taken by mouth) |
+
