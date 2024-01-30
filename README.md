@@ -10,4 +10,4 @@
 |  7 | TLS | Transport Level Security | Tumor Lysis Syndrome |
 |  8 | PCB | Printed Circuit Board | Post Coital Bleeding |
 |  9 | PID | Process ID | Pelvic Inflammatory Disease |
-| 10 | RDS | Relational Database Service | Respiratory distress syndrome |
+| 10 | RDS | Relational Database Service | Respiratory Distress Syndrome |
