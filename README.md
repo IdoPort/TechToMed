@@ -12,3 +12,4 @@
 |  9 | PID | Process ID | Pelvic Inflammatory Disease |
 | 10 | RDS | Relational Database Service | Respiratory Distress Syndrome |
 | 11 | CTO | Chronic Total Occlusion | Chief Technology Officer |
+| 12 | PR | Per Rectum | Pull Request |
