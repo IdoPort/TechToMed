@@ -11,5 +11,5 @@
 |  8 | PCB | Printed Circuit Board | Post Coital Bleeding |
 |  9 | PID | Process ID | Pelvic Inflammatory Disease |
 | 10 | RDS | Relational Database Service | Respiratory Distress Syndrome |
-| 11 | CTO | Chronic Total Occlusion | Chief Technology Officer |
-| 12 | PR | Per Rectum | Pull Request |
+| 11 | CTO | Chief Technology Officer | Chronic Total Occlusion |
+| 12 | PR | Pull Request | Per Rectum |
